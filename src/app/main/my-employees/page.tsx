@@ -1,5 +1,5 @@
 import React from 'react';
-import {MyEmployeesPage} from "@/pages/my-employees-page";
+import MyEmployeesPage from "@/pages/my-employees-page/ui/my-employees-page";
 
 function MyEmployees() {
     return (

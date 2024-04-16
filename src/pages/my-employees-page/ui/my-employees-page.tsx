@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from "next/image";
 
-export const MyEmployeesPage = () => {
+const MyEmployeesPage = () => {
     return (
         <div className="h-full flex items-center justify-center flex-col">
             <Image src="/images/developing.png" alt="developing" width={320} height={282}/>
@@ -11,3 +11,4 @@ export const MyEmployeesPage = () => {
     );
 };
 
+export default MyEmployeesPage
