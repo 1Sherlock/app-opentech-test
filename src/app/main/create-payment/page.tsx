@@ -1,5 +1,5 @@
 import React from 'react';
-import CreatePaymentPage from "@/pages/create-payment-page/create-payment-page";
+import {CreatePaymentPage} from "@/pages/create-payment-page";
 
 function CreatePayment() {
     return (
