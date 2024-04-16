@@ -1,0 +1,1 @@
+export {getTextByPath} from "./helpers"
